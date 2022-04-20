@@ -1,7 +1,5 @@
 # Learn Quantum Materials
 
-A step-by-step introduction to exploring the properties of quantum materials via simulation.
-
 ### Who is this for?
 It is intended to be used by instructors (or for self-study) at the graduate or advanced undergraduate level.
 
