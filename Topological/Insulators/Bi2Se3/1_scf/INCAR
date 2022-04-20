@@ -1,0 +1,14 @@
+LORBIT = 11
+ISTART = 0
+
+KPAR = 12
+
+ENCUT  = 310
+EDIFF = 1e-6
+
+ISMEAR = -5
+SIGMA  = 0.05
+
+LSORBIT = True
+SAXIS = 0 0 1 
+GGA_COMPAT = False
